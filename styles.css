@@ -1,0 +1,112 @@
+body{
+  font-family: 'Spartan', sans-serif;
+}
+h1{display: inline-block;
+  padding: 0;
+  margin-bottom: 9px;
+  font-family: 'Spartan', sans-serif;
+  font-weight: bold;
+  }
+  div{display: inline-block;}
+#all{
+  margin: 50px 80px;
+  position: relative;
+  padding:150px auto;
+}
+.major1{
+    display: inline-block;
+  width:50%;}
+.major2{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 0;
+  width: 49%;
+  font-weight: bold;
+  font-size: 70%;
+  text-align: right;
+}
+.major3{position: relative;
+        }
+#header{
+  color:hsl(300, 43%, 22%);
+  font-weight:700;
+  display: inline-block;
+  width 90%;
+  font-size:140%;
+  font-stretch:ultra-expanded;
+  margin-bottom: 0;
+  padding: 0;
+}
+#para0{
+  color: hsl(303, 10%, 53%);
+  font-weight: 400;
+  font-size:15px;
+  margin-top: 0;
+  margin-bottom: 60px;
+  width:100%;
+  display: inline-block;
+  padding-top: 0;
+}
+.reviews{
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  display: inline-block;
+  padding: 15px 70px 15px 30px ;
+    margin-right:90px ;
+    margin-top: 40px;
+}
+.report-guru{
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  padding: 15px 70px 15px 30px ;
+  display: inline-block;
+    margin-right:30px ;
+    margin-top: 10px;
+
+}
+.best-tech{
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  padding: 15px 70px 15px 30px ;
+  display: inline-block;
+    margin-right: 0;
+    margin-top: 10px;
+}
+.colton{background-color:hsl(300, 43%, 22%);
+width: 25%;
+border-radius: 10px;
+padding: 32px;
+font-size: 12px;
+margin: 0 10px 0;}
+.irene{background-color:hsl(300, 43%, 22%);
+width: 25%;
+border-radius: 10px;
+padding: 32px;
+font-size: 12px;
+margin:0 10px 0;
+position: relative;
+top: 20px;}
+.anne{background-color:hsl(300, 43%, 22%);
+width: 25%;
+border-radius: 10px;
+padding: 32px;
+font-size: 12px;
+margin:0 10px 0;
+position: relative;
+top: 40px;}
+ img{float:left;
+  border-radius: 50%;
+width:11.5%;
+margin-right: 20px;}
+h5{margin: 0 auto;}
+.name{color: white;
+padding-top: 5px;
+}
+#irene{}
+.buyer{padding-top: 5px;
+color: hsl(333, 80%, 67%);
+font-weight: lighter;
+}
+.story{color: hsl(300, 24%, 96%);
+padding-top: 10px;
+font-size: 15px;}
